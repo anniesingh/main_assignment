@@ -1,5 +1,5 @@
 %nproc=2
-%mem=18GB
+%mem=8GB
 %chk=Molecule_TETCEN.chk
 #p B3LYP/6-31G(d) SP
 

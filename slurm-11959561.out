@@ -1,0 +1,10 @@
+/tmp/slurmd/job11959561/slurm_script: line 15: /opt/software/script/job_prologue.sh: No such file or directory
+ Unable to open input file "Molecule_TETCEN_SP_cpu16.com" or "Molecule_TETCEN_SP_cpu16.com".
+/tmp/slurmd/job11959561/slurm_script: line 17: 2019226 Segmentation fault      (core dumped) g16 Molecule_TETCEN_SP_cpu16.com
+ Unable to open input file "Molecule_PENCEN_SP_cpu16.com" or "Molecule_PENCEN_SP_cpu16.com".
+/tmp/slurmd/job11959561/slurm_script: line 18: 2019231 Segmentation fault      (core dumped) g16 Molecule_PENCEN_SP_cpu16.com
+===================================================================================
+SLURM job 11959561 ended:     Mon Mar 31 16:12:14 BST 2025 (Unix Epoch time: 1743433934)
+This is an estimated end time using the 'date' command from node wee17.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11959561 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

@@ -1,0 +1,6 @@
+/tmp/slurmd/job11959558/slurm_script: line 15: /opt/software/script/job_prologue.sh: No such file or directory
+===================================================================================
+SLURM job 11959558 ended:     Mon Mar 31 16:14:42 BST 2025 (Unix Epoch time: 1743434082)
+This is an estimated end time using the 'date' command from node wee11.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11959558 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
